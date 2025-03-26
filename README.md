@@ -3,12 +3,18 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+<https://www.wsl.ch/en/news/trees-bloom-and-budbreak-earlier-and-earlier-as-climate-change-accelerates/>
+
 Vitasse, Y., Baumgarten, F., Zohner, C.M. et al. 
 The great acceleration of plant phenological shifts. 
 Nat. Clim. Chang. 12, 300–302 (2022). 
 <https://doi.org/10.1038/s41558-022-01283-yG>
 
 <https://www.swissinfo.ch/eng/swiss-abroad/spring-begins-in-geneva-when-the-horse-chestnut-tree-blossoms/88756963>
+
+<https://www.meteoswiss.admin.ch/climate/climate-change/vegetation-development/long-term-series-of-phenological-observations.html>
+
+<http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/>
 
 ## Resources
 
